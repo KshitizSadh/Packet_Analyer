@@ -1,12 +1,10 @@
-
-```
 Algonive_Basic_Packet_Analyzer/
 │
 ├── packet_analyzer.py          ← main script
 ├── packet_log.csv              ← output log (generated at runtime)
 ├── README.md                   ← explanation & usage guide
 └── requirements.txt            ← Python dependencies
-```
+
 
 
 ---
