@@ -23,7 +23,7 @@ scapy
 
 ---
 
-# 🛡️ Basic Packet Analyzer — Algonive Internship Project
+# 🛡️ Basic Packet Analyzer 
 
 This project captures live network traffic and extracts:
 - Source and destination IPs
